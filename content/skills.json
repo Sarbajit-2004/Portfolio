@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Python",
+    "icon": "/icons/python.svg",
+    "level": "core"
+  },
+  {
+    "name": "FastAPI",
+    "icon": "",
+    "level": "core"
+  },
+  {
+    "name": "Flask",
+    "icon": "",
+    "level": "core"
+  },
+  {
+    "name": "React",
+    "icon": "/icons/react.svg",
+    "level": "core"
+  },
+  {
+    "name": "Next.js",
+    "icon": "/icons/nextjs.svg",
+    "level": "core"
+  },
+  {
+    "name": "Streamlit",
+    "icon": "",
+    "level": "core"
+  },
+  {
+    "name": "scikit-learn",
+    "icon": "",
+    "level": "core"
+  },
+  {
+    "name": "TensorFlow",
+    "icon": "",
+    "level": "exploring"
+  },
+  {
+    "name": "Keras",
+    "icon": "",
+    "level": "exploring"
+  },
+  {
+    "name": "Pandas",
+    "icon": "",
+    "level": "core"
+  },
+  {
+    "name": "NumPy",
+    "icon": "",
+    "level": "core"
+  },
+  {
+    "name": "Matplotlib",
+    "icon": "",
+    "level": "core"
+  },
+  {
+    "name": "Seaborn",
+    "icon": "",
+    "level": "exploring"
+  },
+  {
+    "name": "Rasa",
+    "icon": "/icons/rasa.svg",
+    "level": "core"
+  },
+  {
+    "name": "Qdrant",
+    "icon": "/icons/qdrant.svg",
+    "level": "core"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "",
+    "level": "core"
+  },
+  {
+    "name": "MySQL",
+    "icon": "/icons/mysql.svg",
+    "level": "core"
+  },
+  {
+    "name": "SQLite",
+    "icon": "",
+    "level": "core"
+  },
+  {
+    "name": "Docker",
+    "icon": "/icons/docker.svg",
+    "level": "core"
+  },
+  {
+    "name": "GitHub Actions",
+    "icon": "/icons/git.svg",
+    "level": "core"
+  },
+  {
+    "name": "Linux",
+    "icon": "/icons/linux.svg",
+    "level": "core"
+  },
+  {
+    "name": "Vercel",
+    "icon": "/icons/vercel.svg",
+    "level": "core"
+  }
+]

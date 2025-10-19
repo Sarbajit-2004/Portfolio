@@ -1,0 +1,140 @@
+[
+  {
+    "type": "education",
+    "title": "Pre-Primary Schooling",
+    "org": "Ashutosh Pal Gyantirtha",
+    "period": "2006 \u2014 2008",
+    "summary": "Began foundational education journey with early focus on curiosity and learning through play.",
+    "tags": [
+      "Early Education"
+    ]
+  },
+  {
+    "type": "education",
+    "title": "Kindergarten to Class VI",
+    "org": "Julien Day School, Ganganagar",
+    "period": "2008 \u2014 2016",
+    "summary": "Developed core academic skills and interest in science, mathematics, and computers.",
+    "tags": [
+      "Primary Education"
+    ]
+  },
+  {
+    "type": "education",
+    "title": "ICSE (Class X) and ISC (Class XII)",
+    "org": "St. Xavier\u2019s Collegiate School, Kolkata",
+    "period": "2016 \u2014 2022",
+    "summary": "Secured 97.3% in ICSE (2020) and 93.25% in ISC (2022) with strong focus on Physics, Mathematics, and Computer Science.",
+    "tags": [
+      "ICSE",
+      "ISC",
+      "Academic Excellence"
+    ]
+  },
+  {
+    "type": "education",
+    "title": "B.Tech in Computer Science and Engineering (AIML)",
+    "org": "Institute of Engineering and Management, Salt Lake",
+    "period": "2022 \u2014 2024",
+    
+    "summary": "Admitted through WBJEE; achieved 9.7 CGPA in first semester while exploring AI and full-stack.",
+    "tags": [
+      "AI/ML",
+      "Full-Stack",
+      "High GPA"
+    ]
+  },
+  {
+    "type": "education",
+    "title": "B.Tech in Computer Science and Engineering",
+    "org": "Indian Institute of Information Technology, Kalyani",
+    "period": "2024 \u2014 Present",
+    "summary": "Continuing B.Tech CSE after JEE (Mains + Advanced), focusing on AI and systems.",
+    "tags": [
+      "CSE",
+      "AI/ML",
+      "Systems"
+    ]
+  },
+  {
+    "type": "education",
+    "title": "BS in Data Science and Applications (Diploma)",
+    "org": "IIT Madras",
+    "period": "2024 \u2014 Present",
+    "summary": "Pursuing Diploma in Data Science with 9.0 CGPA; ML, Statistics, and computational tools.",
+    "tags": [
+      "Data Science",
+      "IITM BS"
+    ]
+  },
+  {
+    "type": "experience",
+    "title": "Junior School Prefect",
+    "org": "Julien Day School, Ganganagar",
+    "period": "2008 \u2014 2015",
+    "summary": "Served as Junior School Prefect from Classes I\u2013VI, fostering leadership and teamwork.",
+    "tags": [
+      "Leadership",
+      "Teamwork",
+      "Discipline"
+    ]
+  },
+  {
+    "type": "experience",
+    "title": "Science Club Representative & Event Organizer",
+    "org": "St. Xavier\u2019s Collegiate School, Kolkata",
+    "period": "2021 \u2014 2022",
+    "summary": "Organized Xuberance (major school fest) and Xullash (Bengali cultural fest) featuring noted guests.",
+    "tags": [
+      "Event Management",
+      "Science Club",
+      "Cultural"
+    ]
+  },
+  {
+    "type": "experience",
+    "title": "Event Volunteer \u2014 ICELTS Conference",
+    "org": "Institute of Engineering and Management, Salt Lake",
+    "period": "2023",
+    "summary": "Supported ICELTS conference operations, coordinating speakers and logistics.",
+    "tags": [
+      "Communication",
+      "Organization"
+    ]
+  },
+  {
+    "type": "experience",
+    "title": "Core Team Member \u2014 Pixel, CodeCubes, Udaan",
+    "org": "IIIT Kalyani",
+    "period": "2024 \u2014 Present",
+    "summary": "Design for Pixel; planned BugBash Mondays for CodeCubes; made event posters and won 1st in SpellBee and Science Quiz under Udaan.",
+    "tags": [
+      "Design",
+      "Community",
+      "Mentorship"
+    ]
+  },
+  {
+    "type": "experience",
+    "title": "Member \u2014 Yantra Robotics Society",
+    "org": "IIT Madras BS",
+    "period": "2024 \u2014 Present",
+    "summary": "Exploring robotics and AI-hardware intersections as part of the Yantra community.",
+    "tags": [
+      "Robotics",
+      "AI Integration"
+    ]
+  },
+  {
+    "type": "experience",
+    "title": "AIML Lead & Core Member",
+    "org": "GDG on Campus \u2014 IIIT Kalyani",
+    "period": "2025 \u2014 Present",
+    "summary": "Conducted ML workshops, mentored peers, organized applied-AI sessions.",
+    "tags": [
+      "AI/ML",
+      "Leadership",
+      "Workshops"
+    ]
+  }
+]

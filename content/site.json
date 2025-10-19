@@ -1,0 +1,14 @@
+{
+  "name": "Sarbajit Kumar De",
+  "tagline": "AI/ML & Full-Stack Engineer",
+  "punchline": "I turn messy ideas into shipped products.",
+  "primaryColor": "#6e56cf",
+  "profileImage": "/profile.jpg",
+  "email": "sarbajit.de.2004@gmail.com",
+  "social": {
+    "github": "https://github.com/Sarbajit-2004",
+    "linkedin": "https://www.linkedin.com/in/sarbajit-kumar-de/"
+  },
+  "about": "I\u2019m an AI/ML and Full-Stack Engineer passionate about turning complex ideas into real, deployable products. I enjoy blending intelligent automation with clean design \u2014 whether it\u2019s a FastAPI backend, a React frontend, or a machine-learning model that actually solves a user\u2019s problem. My interests lie at the intersection of applied AI, cybersecurity, and system design. I love exploring how data, models, and human creativity can work together to build experiences that are fast, meaningful, and reliable. Outside of coding, I spend time experimenting with visual design and mentoring peers to explore the tech-entrepreneurial side of engineering.",
+  "resume": "/resume.pdf"
+}

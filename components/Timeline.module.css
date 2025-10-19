@@ -1,0 +1,5 @@
+.row{display:flex;align-items:center;gap:10px}
+.badge{display:inline-flex;align-items:center;gap:8px;padding:4px 8px;border-radius:999px;font-size:12px;background:rgba(110,86,207,.15);border:1px solid rgba(110,86,207,.35)}
+.summary{color:var(--muted);margin-top:6px}
+.tags{display:flex;gap:8px;margin-top:8px;flex-wrap:wrap}
+.tag{font-size:12px;padding:4px 8px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:10px}

@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Crediverse Resume Analyzer & Enhancer",
+    "tagline": "AI-powered tool that analyzes resumes and provides personalized improvement suggestions.",
+    "highlights": [
+      "Developed an AI/ML pipeline to analyze resumes and assign career-fit scores using NLP models.",
+      "Integrated Streamlit front-end with FastAPI backend for smooth interaction.",
+      "Implemented career recommendations and skill-gap visualizations using semantic embeddings.",
+      "Built modular APIs for easy integration with other Crediverse services."
+    ],
+    "tech": [
+      "Python",
+      "Streamlit",
+      "FastAPI",
+      "NLP",
+      "Machine Learning"
+    ],
+    "links": {
+      "github": "https://github.com/Sarbajit-2004/Crediverse_Resume_Analyser-Enhancer",
+      "live": ""
+    },
+    "featured": true,
+    "period": "2025",
+    "learnings": "Learned full-stack ML app development and NLP-based scoring pipelines."
+  },
+  {
+    "name": "UFDR Evidence Explorer (with Rasa Integration)",
+    "tagline": "AI-powered forensic analysis platform for UFDR bundles with an intelligent chatbot interface.",
+    "highlights": [
+      "Integrated Rasa chatbot for real-time forensic data query and evidence insights.",
+      "Designed multi-stage pipeline for OCR, ASR, and NLP-based entity extraction.",
+      "Implemented vector search using Qdrant for contextual evidence retrieval.",
+      "Enabled on-prem deployment with air-gapped mode ensuring chain-of-custody compliance."
+    ],
+    "tech": [
+      "Python",
+      "Rasa",
+      "FastAPI",
+      "PostgreSQL",
+      "Qdrant",
+      "Docker"
+    ],
+    "links": {
+      "github": "",
+      "live": ""
+    },
+    "featured": true,
+    "period": "2025",
+    "learnings": "Strengthened skills in conversational AI, pipeline orchestration, and on-prem secure deployment."
+  },
+  {
+    "name": "LLM Code Deploy",
+    "tagline": "Automated student code deployment and evaluation system with LLM-assisted review.",
+    "highlights": [
+      "Implemented secure intake API with signature verification for task submissions.",
+      "Used GitHub Actions for automated repo creation, commit tracking, and Pages deployment.",
+      "Enabled evaluation feedback loop with exponential backoff notifier and mock evaluator.",
+      "Part of diploma project focusing on reproducible LLM-assisted code evaluation."
+    ],
+    "tech": [
+      "Python",
+      "FastAPI",
+      "GitHub API",
+      "JSON Schema",
+      "CI/CD"
+    ],
+    "links": {
+      "github": "https://github.com/Sarbajit-2004/llm-code-deploy",
+      "live": ""
+    },
+    "featured": true,
+    "period": "2025",
+    "learnings": "Gained experience in secure API design, automation workflows, and LLM orchestration."
+  },
+  {
+    "name": "Iris Dataset Classification",
+    "tagline": "Classic ML experiment predicting iris species using multiple supervised models.",
+    "highlights": [
+      "Trained and compared Logistic Regression, SVM, and Decision Tree models.",
+      "Used stratified split and StandardScaler to ensure robust evaluation.",
+      "Benchmarked accuracy and confusion matrices to compare generalization."
+    ],
+    "tech": [
+      "Python",
+      "scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "links": {
+      "github": "",
+      "live": ""
+    },
+    "featured": false,
+    "period": "2023",
+    "learnings": "Introduced to end-to-end ML workflows and metrics-driven model selection."
+  },
+  {
+    "name": "Breast Cancer Classification",
+    "tagline": "Diagnosis model with PCA-based dimensionality reduction and classical ML classifiers.",
+    "highlights": [
+      "Applied PCA on Breast Cancer Wisconsin dataset to reduce dimensionality.",
+      "Compared Logistic Regression, SVM, and Random Forest performance.",
+      "Tuned hyperparameters and validated results with hold-out testing."
+    ],
+    "tech": [
+      "Python",
+      "scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Seaborn"
+    ],
+    "links": {
+      "github": "",
+      "live": ""
+    },
+    "featured": false,
+    "period": "2024",
+    "learnings": "Deepened understanding of preprocessing, feature engineering, and model comparison."
+  },
+  {
+    "name": "Code, Communicate, Connect: Exploring AI-Driven Digital Literacy in Language Studies",
+    "tagline": "Research paper examining how digital literacy influences AI-facilitated language learning.",
+    "highlights": [
+      "Connected AI-driven pedagogy with digital literacy competencies using mixed-methods.",
+      "Explored NLP, adaptive learning, and digital ethics in educational contexts.",
+      "Identified correlations between digital literacy and learner proficiency.",
+      "Outlined recommendations for responsible AI in education."
+    ],
+    "tech": [
+      "AI in Education",
+      "Digital Literacy",
+      "Research Methods",
+      "NLP"
+    ],
+    "links": {
+      "github": "",
+      "live": "/docs/digital-literacy-ai-language.docx"
+    },
+    "featured": false,
+    "period": "2025",
+    "learnings": "Strengthened academic writing, analysis, and interdisciplinary research skills."
+  },
+  {
+    "name": "My First Webpage \u2014 Payment Gateway",
+    "tagline": "Basic secure payment gateway interface built using HTML and CSS.",
+    "highlights": [
+      "Simulated payment form with basic validation and clean layout.",
+      "Practiced semantic HTML and responsive CSS fundamentals."
+    ],
+    "tech": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "links": {
+      "github": "https://github.com/Sarbajit-2004/My-first-webpage_Payment-Gateway",
+      "live": ""
+    },
+    "featured": false,
+    "period": "2023",
+    "learnings": "Gained foundational frontend structure, forms UX, and accessibility awareness."
+  },
+  {
+    "name": "Snake Game (C)",
+    "tagline": "Interactive terminal-based Snake game implemented in C.",
+    "highlights": [
+      "Implemented movement, collision detection, and scoring loop.",
+      "Added difficulty modes and basic animation for better playability."
+    ],
+    "tech": [
+      "C"
+    ],
+    "links": {
+      "github": "https://github.com/Sarbajit-2004/Snake-Game",
+      "live": ""
+    },
+    "featured": false,
+    "period": "2024",
+    "learnings": "Improved low-level programming skills and stateful game-loop logic."
+  },
+  {
+    "name": "Tic Tac Toe",
+    "tagline": "Console-based two-player Tic Tac Toe written in C.",
+    "highlights": [
+      "Handled input validation, board rendering, and win/draw checks.",
+      "Wrote modular functions to keep logic maintainable."
+    ],
+    "tech": [
+      "C"
+    ],
+    "links": {
+      "github": "https://github.com/Sarbajit-2004/Tic-tac-toe",
+      "live": ""
+    },
+    "featured": false,
+    "period": "2023",
+    "learnings": "Practiced control flow, arrays, and modularization."
+  },
+  {
+    "name": "UNO Console Game",
+    "tagline": "Command-line UNO game with core mechanics and turn-based logic.",
+    "highlights": [
+      "Implemented skip, reverse, and draw mechanics, tracking player state.",
+      "Reinforced data-structure use and complex conditional flows."
+    ],
+    "tech": [
+      "C"
+    ],
+    "links": {
+      "github": "https://github.com/Sarbajit-2004/UNO",
+      "live": ""
+    },
+    "featured": false,
+    "period": "2023",
+    "learnings": "Learned to manage complex game states and rules."
+  }
+]
