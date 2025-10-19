@@ -69,8 +69,8 @@ It’s a fully responsive, fast, and minimalist personal website built to reflec
 
 ```bash
 # Clone
-git clone https://github.com/Sarbajit-2004/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Sarbajit-2004/Portfolio.git
+cd Portfolio
 
 # Install dependencies
 npm i
