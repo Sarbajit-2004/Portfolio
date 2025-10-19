@@ -5,12 +5,12 @@ import TechPill from "@/components/TechPill";
 import site from "@/content/site.json";
 import skills from "@/content/skills.json";
 import projects from "@/content/projects.json";
-import timeline from "@/content/timeline.json";
-import type { TimelineItem } from "@/lib/types"; // ✅ add type
+import rawTimeline from "@/content/timeline.json";
+import type { TimelineItem } from "@/lib/types";
 import "./page.module.css";
 
-// Cast JSON -> typed array so TS accepts the union for `type`
-const timelineData = timeline as unknown as TimelineItem[];
+// ✅ Cast JSON -> typed array so the union type matches
+const timelineData = rawTimeline as unknown as TimelineItem[];
 
 export default function Home() {
   return (
@@ -39,7 +39,7 @@ export default function Home() {
       <section id="timeline" className="container">
         <h2 className="section-title">Timeline</h2>
         <div className="card">
-          {/* ✅ use the typed data */}
+          {/* ✅ use the typed data (fixes Vercel type error) */}
           <Timeline items={timelineData} />
         </div>
       </section>
